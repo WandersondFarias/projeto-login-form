@@ -11,4 +11,4 @@ This project was made for a youtube tutorial.<br /><br/>
 To start the project, just open the file `index.html` in your preferred browser.
 
 ---
-##### Coded with love by wanderson de farias ♥️
+##### Coded with love by wanderson de farias 
